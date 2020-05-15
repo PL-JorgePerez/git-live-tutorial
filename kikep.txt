@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ghsdfhdfsghd
+=======
+esto son cosas aleatorias
+wabalabadubdub
+>>>>>>> 430c0ced514afa9cb26faa12ea5b457d0c3ce48e
 esto es para crear conflicto
 test
 fnabj
